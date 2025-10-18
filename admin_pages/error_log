@@ -1,0 +1,218 @@
+[07-Oct-2025 10:25:59 UTC] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 50
+[07-Oct-2025 10:25:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php:50
+Stack trace:
+#0 {main}
+  thrown in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 50
+[07-Oct-2025 10:26:33 UTC] PHP Warning:  Undefined variable $conn in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 33
+[07-Oct-2025 10:26:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 33
+[07-Oct-2025 10:26:46 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 930
+[07-Oct-2025 10:26:46 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 930
+[07-Oct-2025 10:26:46 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 930
+[07-Oct-2025 11:18:15 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:18:15 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:18:15 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:39:36 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:39:36 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:39:36 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:52:26 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:52:26 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:52:26 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:52:26 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:52:26 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:52:26 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:59:13 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:59:13 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:59:13 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:59:14 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:59:14 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 11:59:14 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:24:40 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:24:40 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:24:40 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:24:41 UTC] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/add-employee.php on line 7
+[07-Oct-2025 12:24:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/add-employee.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/add-employee.php on line 7
+[07-Oct-2025 12:27:11 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:27:11 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:27:11 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:27:11 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:27:11 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:27:11 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:28:04 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:28:04 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:28:04 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:30:53 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:30:53 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:30:53 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:19 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:19 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:19 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:32 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:32 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:32 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:46 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:46 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:31:46 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:33:03 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:33:03 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:33:03 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:40:15 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:40:15 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:40:15 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:40:21 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:40:21 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:40:21 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:43:49 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:43:49 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:43:49 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:43:49 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:43:49 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:43:49 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:00 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:00 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:00 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:20 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:20 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:20 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:57 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:57 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:44:57 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:45:02 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:45:02 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:45:02 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:50:47 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:50:47 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:50:47 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:51:10 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:51:10 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:51:10 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:51:30 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:51:30 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[07-Oct-2025 12:51:30 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[17-Oct-2025 06:52:27 UTC] PHP Warning:  require_once(../connectiong_fIle/config.php): Failed to open stream: No such file or directory in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 50
+[17-Oct-2025 06:52:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../connectiong_fIle/config.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php:50
+Stack trace:
+#0 {main}
+  thrown in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 50
+[17-Oct-2025 06:53:07 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[17-Oct-2025 06:53:07 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[17-Oct-2025 06:53:07 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 914
+[17-Oct-2025 08:43:32 UTC] PHP Warning:  Undefined variable $stmt in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 31
+[17-Oct-2025 08:43:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php:31
+Stack trace:
+#0 {main}
+  thrown in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 31
+[17-Oct-2025 11:54:48 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:54:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:54:50 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:54:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:54:57 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:54:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:55:03 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:55:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:56:13 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:56:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:56:15 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:56:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 234
+[17-Oct-2025 11:57:40 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 326
+[17-Oct-2025 11:57:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 326
+[17-Oct-2025 11:58:08 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 325
+[17-Oct-2025 11:58:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 325
+[17-Oct-2025 12:07:02 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 324
+[17-Oct-2025 12:07:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 324
+[17-Oct-2025 12:09:25 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 337
+[17-Oct-2025 12:09:25 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 337
+[17-Oct-2025 12:09:25 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 339
+[17-Oct-2025 12:09:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 339
+[17-Oct-2025 12:09:25 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 337
+[17-Oct-2025 12:09:25 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 337
+[17-Oct-2025 12:09:25 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 339
+[17-Oct-2025 12:09:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 339
+[17-Oct-2025 12:09:25 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 337
+[17-Oct-2025 12:09:25 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 337
+[17-Oct-2025 12:09:25 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 339
+[17-Oct-2025 12:09:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 339
+[17-Oct-2025 12:09:45 UTC] PHP Warning:  Undefined variable $leave_rows in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 12:09:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 12:35:04 UTC] PHP Warning:  Undefined variable $result in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 266
+[17-Oct-2025 12:35:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php:266
+Stack trace:
+#0 {main}
+  thrown in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 266
+[17-Oct-2025 12:42:47 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:42:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:42:47 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:42:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:42:47 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:42:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:11 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:11 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:11 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:11 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:11 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:11 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:11 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:14 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:14 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:14 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:14 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:14 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:14 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:17 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:17 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:17 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 240
+[17-Oct-2025 12:43:17 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:17 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:17 UTC] PHP Warning:  Undefined array key "leave_requests" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 12:43:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 284
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 268
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 268
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 268
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:11:12 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:11:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:11:12 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:11:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:11:12 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:11:12 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:11:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 268
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 268
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 268
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:14:59 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:14:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:14:59 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:14:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:14:59 UTC] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 319
+[17-Oct-2025 13:14:59 UTC] PHP Warning:  Undefined array key "employee_name" in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321
+[17-Oct-2025 13:14:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/pashupra/sajiviniai.webpagetrading.in/admin_pages/admin-dashboard.php on line 321

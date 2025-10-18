@@ -1,0 +1,211 @@
+[DEBUG] 2025-06-05 11:00:41 - === LOGIN STARTED ===
+[DEBUG] 2025-06-05 11:00:41 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-05 11:12:16 - === LOGIN STARTED ===
+[DEBUG] 2025-06-05 11:12:16 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-05 11:13:29 - === LOGIN STARTED ===
+[DEBUG] 2025-06-05 11:13:29 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-05 11:13:29 - Invalid password
+[DEBUG] 2025-06-05 11:13:29 - Login failed
+[DEBUG] 2025-06-05 11:13:52 - === LOGIN STARTED ===
+[DEBUG] 2025-06-05 11:13:52 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-05 11:13:52 - Invalid password
+[DEBUG] 2025-06-05 11:13:52 - Login failed
+[DEBUG] 2025-06-05 11:14:13 - === LOGIN STARTED ===
+[DEBUG] 2025-06-05 11:14:13 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-05 11:14:14 - Invalid password
+[DEBUG] 2025-06-05 11:14:14 - Login failed
+[DEBUG] 2025-06-09 05:50:58 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 05:50:58 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 05:50:58 - Invalid password
+[DEBUG] 2025-06-09 05:50:58 - Login failed
+[DEBUG] 2025-06-09 05:51:08 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 05:51:08 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 05:54:08 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 05:54:08 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 09:11:33 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 09:11:33 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:18:14 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:18:14 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:20:16 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:20:16 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:20:38 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:20:38 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:21:06 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:21:06 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:22:35 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:22:35 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:22:45 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:22:45 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:24:36 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:24:36 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:52:11 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:52:11 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 11:52:34 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 11:52:34 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 14:13:34 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 14:13:34 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-09 14:29:55 - === LOGIN STARTED ===
+[DEBUG] 2025-06-09 14:29:55 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-10 05:20:41 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 05:20:41 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-10 05:25:22 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 05:25:22 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-10 05:25:22 - Invalid password
+[DEBUG] 2025-06-10 05:25:22 - Login failed
+[DEBUG] 2025-06-10 05:26:01 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 05:26:01 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-10 05:26:01 - Invalid password
+[DEBUG] 2025-06-10 05:26:01 - Login failed
+[DEBUG] 2025-06-10 05:26:54 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 05:26:54 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-10 05:28:44 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 05:28:44 - User found: ID 13, Role: manager, Active: 1
+[DEBUG] 2025-06-10 05:42:12 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 05:42:12 - User found: ID 13, Role: manager, Active: 1
+[DEBUG] 2025-06-10 06:13:12 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 06:13:12 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-10 06:15:12 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 06:15:12 - User found: ID 13, Role: manager, Active: 1
+[DEBUG] 2025-06-10 06:33:18 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 06:33:18 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-10 07:41:48 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 07:41:48 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-10 08:02:56 - === LOGIN STARTED ===
+[DEBUG] 2025-06-10 08:02:56 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-11 08:07:26 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 08:07:26 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-11 09:38:29 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 09:38:29 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-11 09:39:41 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 09:39:41 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-11 09:39:41 - Invalid password
+[DEBUG] 2025-06-11 09:39:41 - Login failed
+[DEBUG] 2025-06-11 09:40:07 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 09:40:07 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-11 09:40:07 - Invalid password
+[DEBUG] 2025-06-11 09:40:07 - Login failed
+[DEBUG] 2025-06-11 09:40:13 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 09:40:13 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-11 09:40:13 - Invalid password
+[DEBUG] 2025-06-11 09:40:13 - Login failed
+[DEBUG] 2025-06-11 09:40:21 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 09:40:21 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-11 11:08:12 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 11:08:12 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-11 11:08:12 - Invalid password
+[DEBUG] 2025-06-11 11:08:12 - Login failed
+[DEBUG] 2025-06-11 11:08:21 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 11:08:21 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-11 12:26:45 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 12:26:45 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-11 12:27:11 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 12:27:11 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-11 12:27:11 - Invalid password
+[DEBUG] 2025-06-11 12:27:11 - Login failed
+[DEBUG] 2025-06-11 12:27:20 - === LOGIN STARTED ===
+[DEBUG] 2025-06-11 12:27:20 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-12 06:05:05 - === LOGIN STARTED ===
+[DEBUG] 2025-06-12 06:05:05 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-12 08:52:47 - === LOGIN STARTED ===
+[DEBUG] 2025-06-12 08:52:47 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-12 09:00:22 - === LOGIN STARTED ===
+[DEBUG] 2025-06-12 09:00:22 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-16 14:36:57 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 14:36:57 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-16 14:45:00 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 14:45:00 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-16 14:55:34 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 14:55:34 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-16 14:55:34 - Invalid password
+[DEBUG] 2025-06-16 14:55:34 - Login failed
+[DEBUG] 2025-06-16 14:55:41 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 14:55:41 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-16 15:34:36 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 15:34:36 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-16 16:34:17 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 16:34:17 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-16 17:22:56 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 17:22:56 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-16 17:22:57 - Invalid password
+[DEBUG] 2025-06-16 17:22:57 - Login failed
+[DEBUG] 2025-06-16 17:23:03 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 17:23:03 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-16 17:23:03 - Invalid password
+[DEBUG] 2025-06-16 17:23:03 - Login failed
+[DEBUG] 2025-06-16 17:23:09 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 17:23:09 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-16 17:32:26 - === LOGIN STARTED ===
+[DEBUG] 2025-06-16 17:32:26 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-17 17:50:54 - === LOGIN STARTED ===
+[DEBUG] 2025-06-17 17:50:54 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-17 18:30:22 - === LOGIN STARTED ===
+[DEBUG] 2025-06-17 18:30:22 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-18 06:10:51 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 06:10:51 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 06:10:51 - Invalid password
+[DEBUG] 2025-06-18 06:10:51 - Login failed
+[DEBUG] 2025-06-18 06:10:58 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 06:10:58 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 07:39:33 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 07:39:33 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-18 07:40:12 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 07:40:12 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 08:12:19 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 08:12:19 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 08:39:48 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 08:39:48 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 12:04:39 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 12:04:39 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 12:05:40 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 12:05:40 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-18 12:05:52 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 12:05:52 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 12:23:18 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 12:23:18 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-18 14:23:16 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 14:23:16 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-18 15:55:34 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 15:55:34 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-18 15:59:35 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 15:59:35 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-18 16:06:59 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 16:06:59 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-18 16:06:59 - Invalid password
+[DEBUG] 2025-06-18 16:06:59 - Login failed
+[DEBUG] 2025-06-18 16:07:06 - === LOGIN STARTED ===
+[DEBUG] 2025-06-18 16:07:06 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-19 05:59:32 - === LOGIN STARTED ===
+[DEBUG] 2025-06-19 05:59:32 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-19 06:13:21 - === LOGIN STARTED ===
+[DEBUG] 2025-06-19 06:13:21 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-19 06:22:38 - === LOGIN STARTED ===
+[DEBUG] 2025-06-19 06:22:38 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-19 06:39:49 - === LOGIN STARTED ===
+[DEBUG] 2025-06-19 06:39:49 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-19 08:40:20 - === LOGIN STARTED ===
+[DEBUG] 2025-06-19 08:40:20 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-19 12:31:59 - === LOGIN STARTED ===
+[DEBUG] 2025-06-19 12:31:59 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-19 12:32:32 - === LOGIN STARTED ===
+[DEBUG] 2025-06-19 12:32:32 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-23 03:33:12 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 03:33:12 - Invalid request method
+[DEBUG] 2025-06-23 07:14:53 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 07:14:53 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-23 07:15:38 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 07:15:38 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-23 07:16:19 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 07:16:19 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-23 07:19:01 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 07:19:01 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-23 07:19:21 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 07:19:21 - User found: ID 4, Role: manager, Active: 1
+[DEBUG] 2025-06-23 07:25:34 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 07:25:34 - User found: ID 5, Role: user, Active: 1
+[DEBUG] 2025-06-23 07:52:31 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 07:52:31 - User found: ID 1, Role: admin, Active: 1
+[DEBUG] 2025-06-23 08:55:18 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 08:55:18 - User not found for email: admin@admin.com
+[DEBUG] 2025-06-23 08:55:18 - Login failed
+[DEBUG] 2025-06-23 08:55:30 - === LOGIN STARTED ===
+[DEBUG] 2025-06-23 08:55:30 - User found: ID 1, Role: admin, Active: 1

@@ -1,0 +1,222 @@
+---
+START LOG: 2025-06-29 10:14:51
+---
+START LOG: 2025-06-29 10:15:13
+---
+START LOG: 2025-06-29 10:15:13
+---
+START LOG: 2025-06-29 10:16:38
+Logged in user: Array
+(
+    [id] => 10
+    [name] => Rachna
+    [email] => rachna@integritymatters.in
+    [role] => admin
+    [first_login] => 0
+)
+Leave ID: 212 | Action: approve
+Leave data: Array
+(
+    [id] => 212
+    [user_id] => 5
+    [leave_type] => Casual Leave
+    [leave_duration] => Full Day
+    [half_day_type] => 
+    [from_date] => 2025-07-03
+    [to_date] => 2025-07-03
+    [reason] => ww
+    [status] => pending
+    [created_at] => 2025-06-27 19:22:31
+    [approval_level] => 3
+    [approval_required] => 2
+    [balance_updated] => 0
+    [sandwich_leave] => No
+)
+Duplicate approval attempt by rachna@integritymatters.in
+---
+START LOG: 2025-06-29 10:24:02
+Logged in user: Array
+(
+    [id] => 10
+    [name] => Rachna
+    [email] => rachna@integritymatters.in
+    [role] => admin
+    [first_login] => 0
+)
+Leave ID: 212 | Action: approve
+Leave data: Array
+(
+    [id] => 212
+    [user_id] => 5
+    [leave_type] => Casual Leave
+    [leave_duration] => Full Day
+    [half_day_type] => 
+    [from_date] => 2025-07-03
+    [to_date] => 2025-07-03
+    [reason] => ww
+    [status] => pending
+    [created_at] => 2025-06-27 19:22:31
+    [approval_level] => 3
+    [approval_required] => 2
+    [balance_updated] => 0
+    [sandwich_leave] => No
+)
+Duplicate approval by rachna@integritymatters.in
+Approved Emails: admin@company.com, nithyanand@integritymatters.in, rachna@integritymatters.in
+Applicant Email: shreeghodke123@gmail.com
+isRachnaApproved: Yes
+isAdminApproved: No
+Final Approval: NO
+Approval level incremented for leave_id: 212
+Redirecting to admin-dashboard.php
+---
+START LOG: 2025-06-29 10:24:06
+Logged in user: Array
+(
+    [id] => 10
+    [name] => Rachna
+    [email] => rachna@integritymatters.in
+    [role] => admin
+    [first_login] => 0
+)
+Leave ID: 212 | Action: reject
+Leave data: Array
+(
+    [id] => 212
+    [user_id] => 5
+    [leave_type] => Casual Leave
+    [leave_duration] => Full Day
+    [half_day_type] => 
+    [from_date] => 2025-07-03
+    [to_date] => 2025-07-03
+    [reason] => ww
+    [status] => pending
+    [created_at] => 2025-06-27 19:22:31
+    [approval_level] => 4
+    [approval_required] => 2
+    [balance_updated] => 0
+    [sandwich_leave] => No
+)
+Leave rejected by rachna@integritymatters.in
+---
+START LOG: 2025-06-29 10:24:41
+Logged in user: Array
+(
+    [id] => 4
+    [name] => Nithyanand Nadar
+    [email] => nithyanand@integritymatters.in
+    [role] => manager
+    [first_login] => 0
+)
+Leave ID: 214 | Action: approve
+Leave data: Array
+(
+    [id] => 214
+    [user_id] => 5
+    [leave_type] => Casual Leave
+    [leave_duration] => Full Day
+    [half_day_type] => 
+    [from_date] => 2025-07-01
+    [to_date] => 2025-07-01
+    [reason] => ww
+    [status] => pending
+    [created_at] => 2025-06-29 10:24:27
+    [approval_level] => 0
+    [approval_required] => 2
+    [balance_updated] => 0
+    [sandwich_leave] => No
+)
+Approval inserted for nithyanand@integritymatters.in
+Approved Emails: nithyanand@integritymatters.in
+Applicant Email: shreeghodke123@gmail.com
+isRachnaApproved: No
+isAdminApproved: No
+Final Approval: NO
+Approval level incremented for leave_id: 214
+Redirecting to manager-dashboard.php
+---
+START LOG: 2025-06-29 10:24:52
+Logged in user: Array
+(
+    [id] => 10
+    [name] => Rachna
+    [email] => rachna@integritymatters.in
+    [role] => admin
+    [first_login] => 0
+)
+Leave ID: 214 | Action: approve
+Leave data: Array
+(
+    [id] => 214
+    [user_id] => 5
+    [leave_type] => Casual Leave
+    [leave_duration] => Full Day
+    [half_day_type] => 
+    [from_date] => 2025-07-01
+    [to_date] => 2025-07-01
+    [reason] => ww
+    [status] => pending
+    [created_at] => 2025-06-29 10:24:27
+    [approval_level] => 1
+    [approval_required] => 2
+    [balance_updated] => 0
+    [sandwich_leave] => No
+)
+Approval inserted for rachna@integritymatters.in
+Approved Emails: nithyanand@integritymatters.in, rachna@integritymatters.in
+Applicant Email: shreeghodke123@gmail.com
+isRachnaApproved: Yes
+isAdminApproved: No
+Final Approval: NO
+Approval level incremented for leave_id: 214
+Redirecting to admin-dashboard.php
+---
+START LOG: 2025-06-29 10:39:53
+Logged in user: Array
+(
+    [id] => 10
+    [name] => Rachna
+    [email] => rachna@integritymatters.in
+    [role] => admin
+    [first_login] => 0
+)
+Leave ID: 214 | Action: approve
+Leave data: Array
+(
+    [id] => 214
+    [user_id] => 5
+    [leave_type] => Casual Leave
+    [leave_duration] => Full Day
+    [half_day_type] => 
+    [from_date] => 2025-07-01
+    [to_date] => 2025-07-01
+    [reason] => ww
+    [status] => pending
+    [created_at] => 2025-06-29 10:24:27
+    [approval_level] => 2
+    [approval_required] => 2
+    [balance_updated] => 0
+    [sandwich_leave] => No
+)
+Duplicate approval by rachna@integritymatters.in
+Approved Emails: nithyanand@integritymatters.in, rachna@integritymatters.in
+Applicant Email: shreeghodke123@gmail.com
+isRachnaApproved: Yes
+isAdminApproved: No
+Final Approval: NO
+Approval level incremented for leave_id: 214
+Redirecting to admin-dashboard.php
+---
+START LOG: 2025-06-29 11:29:44
+---
+START LOG: 2025-06-29 11:29:52
+---
+START LOG: 2025-06-29 11:30:00
+---
+START LOG: 2025-06-29 11:30:15
+---
+START LOG: 2025-06-29 11:30:15
+---
+START LOG: 2025-06-29 11:33:31
+---
+START LOG: 2025-06-29 11:33:33

@@ -143,7 +143,7 @@ require_once '../connecting_fIle/config.php';
       <!-- Dashboard Section -->
    <section id="dashboard" class="p-6">
 
-<p class="text-gray-600 mb-6">Login Time: <?= date('d-m-Y') ?></p>
+
 <div class="flex justify-end mb-4">
     <form method="POST" action="export_leave_report.php" target="_blank">
        

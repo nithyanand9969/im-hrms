@@ -27,8 +27,10 @@ jobs:
         key: ${{ secrets.EC2_SSH_KEY }}
         port: 22
         script: |
-          cd ${{ secrets.EC2_PROJECT_PATH }}
+          cd /home/ubuntu/im-hrms
           git pull origin main
+          sudo cp -r /home/ubuntu/im-hrms/* ${{ secrets.EC2_PROJECT_PATH }}
+          cd ${{ secrets.EC2_PROJECT_PATH }}
           sudo chown -R www-data:www-data ${{ secrets.EC2_PROJECT_PATH }}
           sudo systemctl restart apache2
           echo "✅ Deployment complete!"

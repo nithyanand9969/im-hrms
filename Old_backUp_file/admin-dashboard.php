@@ -566,8 +566,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['leave_id'], $_POST['a
 
 <body class="bg-gray-100 font-sans antialiased">
   <div class="flex h-screen">
-    <!-- Sidebar -->
-      <aside class="hidden md:block sd:block lg:block md:flex w-64 bg-blue-900 text-white flex-col flex-shrink-0">
+  <aside class="hidden md:block sd:block lg:block md:flex w-64 bg-blue-900 text-white flex-col flex-shrink-0">
       <div class="text-2xl font-bold p-6 border-b border-blue-700">IM Management</div>
       <nav class="flex-1 p-4 space-y-2">
         <button class="nav-item block w-full text-left px-4 py-3 rounded hover:bg-blue-800 transition" data-page="dashboard">

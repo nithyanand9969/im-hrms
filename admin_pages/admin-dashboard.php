@@ -96,7 +96,7 @@ $tableResult = $conn->query($sql);
     <div class="flex h-screen">
         <!-- Sidebar -->
         <aside class="hidden md:block lg:block w-64 bg-blue-900 text-white flex-col flex-shrink-0">
-            <div class="text-2xl font-bold p-6 border-b border-blue-700">IM</div>
+            <div class="text-2xl font-bold p-6 border-b border-blue-700">IM - Admin</div>
             <nav class="flex-1 p-4 space-y-2">
                 <button class="nav-item block w-full text-left px-4 py-3 rounded hover:bg-blue-800 transition" data-page="dashboard">
                     <i class="fas fa-tachometer-alt mr-2"></i>Dashboard
